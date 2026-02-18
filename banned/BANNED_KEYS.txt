@@ -1,5 +1,1 @@
-// Sample:
-LICENSE-KEY-1
-LICENSE-KEY-2
-LICENSE-KEY-3
-
+{"version":2,"mode":"pub_sym","algo":"aes","iv":"2cbf7af1bc59f0915c8e7556d29b0e94","ciphertext":"6wUsiGNditsuhxzbdoNkxLCRJoZ4RIWCBje6Gs9568LKh73x4Td5AagnKheLhgICZatlA7O2zf2ayGO83veOvjANaX1iEgfcXzy8zwuYzN+HatiejXKrmoPstMKjAJo1AaccXKKnML3erFUlVbiRPHdA9x9p45WoTm0Uj8xyvEPRaOqpljdgoMgPXxT0yc38ig6rQJIpWg9PYa2nC37kibnwzeP2e+EC01duVgqY8di85mUWNDUS8N7xXkvITx9ufNSVvwfIUh2xbSwy/13f/D/F0fT3mNW8pZOnot947SM=","hmac":"73cc160d46649eb2314c8c2e8fb6a352b13aba79306bcb933ce46c0731e3c15f"}
