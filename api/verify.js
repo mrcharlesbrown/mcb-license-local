@@ -12,19 +12,14 @@
  * @copyright All Rights Reserved.
  * 
  */
-(async () => {
-	async function verify() {
-		const localAP = true; // SECURITY SWITCH: Set to true to enable priviledges from the client. Keep false for production.
-		const priviledgeProductId = ['MCB_Fileslync']; // Only allow specified customProductId to authorize priviledges. If false or [], allow all apps to use priviledge.
+function verify() {
+	const localAP = true; // SECURITY SWITCH: Set to true to enable priviledges from the client. Keep false for production.
+	const priviledgeProductId = ['MCB_Fileslync']; // Only allow specified customProductId to authorize priviledges. If false or [], allow all apps to use priviledge.
 
-		// Expose API
-		return {
-			localAP: localAP,
-			priviledgeProductId: priviledgeProductId,
-		}
-	};
-	const api = await verify();
-	return api;
-})();
-
-
+	// Expose API
+	return {
+		localAP: localAP,
+		priviledgeProductId: priviledgeProductId,
+	}
+};
+return verify();
