@@ -1,7 +1,7 @@
 /**
  * MCB LICENSE LOCAL
  * File: https://github.com/mrcharlesbrown/mcb-license-local/api/verify.js 
- * Raw: 'https://raw.githubusercontent.com/mrcharlesbrown/mcb-license-local/main/api/verify.js'
+ * Raw: https://raw.githubusercontent.com/mrcharlesbrown/mcb-license-local/main/api/verify.js
  * 
  * Handles Priviledges, Integrity Check, Verification, Deactivation, etc. For Offline Validation
  * 
@@ -23,3 +23,4 @@ function verify() {
 	}
 };
 return verify();
+
