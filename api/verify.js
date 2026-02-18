@@ -5,6 +5,8 @@
  * 
  * Handles Priviledges, Integrity Check, Verification, Deactivation, etc. For Offline Validation
  * 
+ * Note: user shorter const for public files
+ * 
  * @version 1.0.0
  * @author mrcharlesbrown [mcbdesk@hotmail.com]
  * @copyright All Rights Reserved.
