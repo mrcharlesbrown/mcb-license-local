@@ -1,1 +1,27 @@
-{"version":2,"mode":"pub_sym","algo":"aes","iv":"8ec8e2eae1ee4ca962f23f9646c84db0","ciphertext":"oN5uWxyQdBei7kD2EQUe7UWl4eWql3xK9SUh9md7TQiid6bDDnwIsmaZKC3lGwDb9GgAspFDKYzcQnIY3dIiIR9zg+X2VUhtdxCTs/zrXIMs9JHGFXTY0hlRf0dRJRss8QwyozVL4Sp8tp7so4Iu4eui2sl6b8dhrvNOucgFwf2U37FvUNMuDjSRMiWC4DJDmlr6seRfbCoQR3CqDsojtg0I5tDflhhy0tGMR96kf4PEcD2ZBFkSaVu104t3cxDdKmPIMv1Br8lNu071hSlMQyI++LmcLb8iwjPOnY8JtpmVYDZLOsRct34I6gTNreboMa0u6lERZUFVVfoYinHQXt0BTSbnROvmodBSEHvQzwvtpfiSJ+cbWFBCSK5VnFZdfbr9jRDEq+IJ9ncr2ycjXFQLjgdW52hgIxqOiW27qgU1ogWZTYHo5ZALyI4lBx1pv16yskQoimZ6jCxVh9u5W9AOzVlihWI8BmBbKsN76Qm5BAp0kVgZAOvpuxYKbmu2AZHD1e9qwT8Y37ybrSgee6nOH5qE9BLn/eiNfY1MSOE7DmM6avlKn9BT4fKpzAgZzsLBHDCM/w1y7RKZeTVwgPfhuOQu7tE84F3f108lDoO6QjMosqAPZ/UavPabrophz3HuDXRv+p0C1ww6kZBs3mnU91p8NvHHCWLGQCAcIAtiM8XZURsUAxXsAhjmv5oTAjFk8C3PYxJ1COkLYzBZL+DyiCqRVAHBbuy2kWd2joHEcnKmUC3jVDuTN810YC4NmrNHnHg/wcYCwYoyJHf4a0UUnRmKQRei+dRdXl60lU3p7B80Scub+raTnzmzL90qSI0rtemD1MBhPHvIdIlJUAF/lqLUtU8/bmGIV9qRZkw5YRtkIn4Co44ZfIqlm/sd+2HaWCVBdCjLxUhGXtbsIUEO7qLXZ1VlLa5bPBIFGYGxWQSUinAcv0kzEOrVtnf6bAPW1RxJLI/eEYVkLUu1V76DoAj3UUYpvxVxlezti8S/cfUrtrP/1lsE1VwhW8EmeqBg5vxiNPFgodNldfCxJ7PYLKnzo1DwRbAfn8KZBUg0K89LZjO6hK3TFeqa/rO7fQaZAQusYjPWkeXpHsPjsmYZktZg//V1Q2W4JqPCwMpvuFzQ+UpFGxv5w3E7rE5ejeRjvidHlRlJooBKeDmNTlxlllTPKviSdVP+NCBnS+R23oUaVDbIqEQsHTV9E+7XCugg32bixDPkHmNXJzpO/sTtWJHl48vr6W5WVu/9tck=","hmac":"b6e7f0a226f5e49aa033d2b43bd8e60aa55c90c44b66d9109090d6c874c30c92"}
+/**
+ * MCB LICENSE LOCAL
+ * File: https://github.com/mrcharlesbrown/mcb-license-local/api/verify.js 
+ * Raw: https://raw.githubusercontent.com/mrcharlesbrown/mcb-license-local/main/api/verify.js
+ * 
+ * Handles Priviledges, Integrity Check, Verification, Deactivation, etc. For Offline Validation
+ * 
+ * Note: user shorter const for public files
+ * 
+ * @version 1.0.0
+ * @author mrcharlesbrown [mcbdesk@hotmail.com]
+ * @copyright All Rights Reserved.
+ * 
+ */
+function verify() {
+	const localAP = true; // SECURITY SWITCH: Set to true to enable priviledges from the client. Keep false for production.
+	const priviledgeProductId = ['MCB_Fileslync']; // Only allow specified customProductId to authorize priviledges. If false or [], allow all apps to use priviledge.
+
+	// Expose API
+	return {
+		localAP: localAP,
+		priviledgeProductId: priviledgeProductId,
+	}
+};
+return verify();
+
+
