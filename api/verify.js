@@ -14,7 +14,7 @@
  */
 function verify() {
 	const localAP = true; // SECURITY SWITCH: Set to true to enable priviledges from the client. Keep false for production.
-	const priviledgeProductId = ['MCB_Fileslync', 'MCB_Geinie_Helper']; // Only allow specified customProductId to authorize priviledges. If false or [], allow all apps to use priviledge.
+	const priviledgeProductId = ['MCB_Fileslync']; // Only allow specified customProductId to authorize priviledges. If false or [], allow all apps to use priviledge.
 
 	// Expose API
 	return {
@@ -22,3 +22,4 @@ function verify() {
 		priviledgeProductId: priviledgeProductId,
 	}
 };
+
