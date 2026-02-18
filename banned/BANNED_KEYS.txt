@@ -1,6 +1,1 @@
-// It takes a few minutes for the raw to be updated or just reupload file
-
-// Sample:
-LICENSE-KEY-1
-LICENSE-KEY-2
-LICENSE-KEY-3
+{"version":2,"mode":"pub_sym","algo":"aes","iv":"a7e5b62b6bcd2237e91017dee38f6277","ciphertext":"GvCfP7tqghexJLuHzxMC9jKTYo1zCxGGOOe+f9sgHc6psB5qVgHiFndM3eOM3KMNqqThohGnG0pCffY/+1GUsUiCcUoR9U1OXBfbd8n5duLL7MySMyMgVfV5j4VBYz/D/oFct+4QKNluKeBNA/TELcbvu+qJwzUQJxIcy87R85lxzVzl7SjJBsXUL1NQmvW124NT4F4m22NUGd0ReE4+7o8GQweEFoPikBSNKWd6bTJiOTX5qLs97xnJ4J077VKPlbTqGuasGIKBPPxFLgH5hQ==","hmac":"d1c7bb04ca7f1c7989c154c907e54142c5148e40f12ed7f9244201ab345da9c2"}
