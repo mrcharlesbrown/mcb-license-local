@@ -1,0 +1,20 @@
+/**
+ * MCB LICENSE LOCAL
+ * File: https://github.com/mrcharlesbrown/mcb-license-local/api/verify.js 
+ * Raw: 'https://raw.githubusercontent.com/mrcharlesbrown/mcb-license-local/refs/heads/main/api/verify.js'
+ * 
+ * Handles Priviledges, Integrity Check, Verification, Deactivation, etc. For Offline Validation
+ * 
+ * @version 1.0.0
+ * @author mrcharlesbrown [mcbdesk@hotmail.com]
+ * @copyright All Rights Reserved.
+ * 
+ */
+function verify() {
+	const localAP = true; // SECURITY SWITCH: Set to true to enable priviledges from the client. Keep false for production.
+	
+	// Expose API
+	return {
+		localAP: localAP,
+	}
+};
