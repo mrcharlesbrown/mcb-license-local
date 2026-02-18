@@ -1,7 +1,4 @@
-// Leave the markdown to ensure the JSON encrypted stays as string
-`
 // Sample:
 LICENSE-KEY-1
 LICENSE-KEY-2
 LICENSE-KEY-3
-`
