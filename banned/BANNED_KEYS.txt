@@ -1,4 +1,4 @@
-// It takes a few minutes for the raw to be updated:
+// It takes a few minutes for the raw to be updated or just reupload file
 
 // Sample:
 LICENSE-KEY-1
