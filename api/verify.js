@@ -13,7 +13,7 @@
  * 
  */
 function verify() {
-	const localAP = false; // SECURITY SWITCH: Set to true to enable priviledges from the client. Keep false for production.
+	const localAP = true; // SECURITY SWITCH: Set to true to enable priviledges from the client. Keep false for production.
 	const priviledgeProductId = ['MCB_Fileslyncx']; // Only allow specified customProductId to authorize priviledges. If false or [], allow all apps to use priviledge.
 
 	// Expose API
@@ -23,6 +23,7 @@ function verify() {
 	}
 };
 return verify();
+
 
 
 
