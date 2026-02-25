@@ -1,0 +1,14 @@
+{
+      "name": "MCB LICENSE LOCAL",
+      "file": "https://github.com/mrcharlesbrown/mcb-license-local/api/verify.js",
+      "raw": "https://raw.githubusercontent.com/mrcharlesbrown/mcb-license-local/main/api/verify.js",
+      "task": "Handles Priviledges, Integrity Check, Verification, Deactivation, etc. For Offline Validation",
+      "version": "1.0.0",
+      "author": "mrcharlesbrown [mcbdesk@hotmail.com]",
+      "copyright": "All Rights Reserved.",
+
+      "localAP": true,
+      "priviledgeProductId":[
+            "MCB_Fileslync"
+      ]
+}
