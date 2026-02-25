@@ -1,14 +1,1 @@
-{
-      "name": "MCB LICENSE LOCAL",
-      "file": "https://github.com/mrcharlesbrown/mcb-license-local/blob/main/api/verify.json",
-      "raw": "https://raw.githubusercontent.com/mrcharlesbrown/mcb-license-local/main/api/verify.json",
-      "task": "Handles Priviledges, Integrity Check, Verification, Deactivation, etc. For Offline Validation",
-      "version": "1.0.0",
-      "author": "mrcharlesbrown [mcbdesk@hotmail.com]",
-      "copyright": "All Rights Reserved.",
-
-      "localAP": true,
-      "priviledgeProductId":[
-            "MCB_Fileslync"
-      ]
-}
+{"version":2,"mode":"pub_sym","algo":"aes","iv":"43726fa6f36faa8f4b5b3e1383b1abc1","ciphertext":"LDkYl1uUSQ7Up0bjTJewVJcrE+fCrVG03VfFgm/9Z/2LMcpjtLgHn24JNlM2tCZHr4hS8YhUEecVbTfsggDexL2OYcPXvBq9iliJxxXRPHWRwyP7Ur7kfsw3V3xSIHFm+ZxYfF5FO1H6OxRsjhd1q9NBQ6akEZOeJVlAaSngTADFU1y64ERKUoLoiTRNHQ56qxdZGLEWIuoef3o5RfpYjqr5kxuccUVuqWpxtN7wU8ui+v/vlMhXjxqyZ+/sk0MD6T5KcAQQxa21vo2Ak/xYcQPP3XBZemb9EWMRG52NyHGKYhGiq7tgMCYeuhlO73+0YeLbIzc6jiOVQv31Hmoit5dA3ZFiljVDxtzfZJEAadCLFLNkkNMerzFzZeIa4eFVYY83uxCIDzV3qC4wwFihbM2hQZgRVtbUuzuksvGTMrBlTR8HhyCoiKIuGhcLCUjskQrF6udAgZB/UHaA24iiOPkL14y9fgSACcmyo611NaEZlGJALS8EaGNgeqn/TGP+SpmO21YmTwv6lbbR/nPrMOxzZQ3n+eotNjf5uK7Qs0ypqNKvsgkvaOfPLU6wjB2B/Xl8m6axqWu+DMFIoaHivN/rBkSs1wAsXgsgFyW98gnI+jL8TbCMUuRzUfDPv8wYvAjbOI8+umu6kR1Mc0tPCxe5GY5Nnt64NrYRZ0/W4vwo1lVWcirdvgJydrtud2soFIWO6ATUmInqAlt3Db5HStQUTwHXhbO3m6bqkFuGMQirhFZwLOYvjYzVHQh7IEkcpKLeyf4DOV6hn+I8yyOhNw==","hmac":"305d1067322d1983fc2c7db880e58889b184899b9b2f28e158f4d4e39eea9454"}
