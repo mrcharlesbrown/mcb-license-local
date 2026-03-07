@@ -1,1 +1,22 @@
-{"version":2,"mode":"pub_sym","algo":"aes","iv":"bad7d637319a3a664ae80957a53e7a9b","ciphertext":"Ir16KuUe4JGj3BkEtc2g8kOrLX2dOT3LbvChKVwKa3+8r7QdNrNw2RSrayZiaE/rvv2preDak7HyLV7Qkb4psDk1FoEhl1ORB0ZRBljeSMEHJqTY2r2T++IK5AcXCQRmGA6ZxROspR9WmJHtmXXcvpFOjDwbbQr2BDOq3JJHu5HvpELPDSsdd+Ww9SPFMpSZbpgrkVlxLshjxpid3omyUd9WXGaW2PCkgDuMh2DRPZJ7jLxPoJ4LTucSgMTv2hIZikD6+gbXzM6qsrdbE+uLG2PnRjR4C4EuO1J1ZXxK04PYzWsFB2n62gZ+4s7vycs9jpQPqOVjobKSba/D72QjFV0MXPG5xkR5oHRSAnDJXE8d3zuZ0RkAXoPkvjoTsnx81Wrig24SAy24SDvwlc8nS4NWzCVH9Q2P4hszTCPNcCTGwjrNYHK0ERpXAfG0PuuREbDvksmsJ8v5iFghKhiP5D+fLFmP2pbmYzIznMtER6jiyRXFb27yHYx/REpomj5altK13tBrntRNt1sTYGFPmYpLm1NJNNjSzML/9zNPh2HJFa8yQ/AQc/rA/TA2IhRgAdGWKZOr9ft5ppCmV/rNI+KfN1IO3WNRZyMuaNYIi0LU1auQXEgULtBL9gVa28xJUv3gMVPXr7If97LF42YKHbACwJMuEVz0olbDxtxZ3uRAGDLeE+Li0/7gpaoBD1qxdyWVAtpVJLFe1y8Rg4DxKD6feVR7zLwwoub8K+xEe9HBOJVB7S3naUmGfJi6wYgVpwWe++X3XebAR2a0GuRamzFQccddFQaqE7ZlZxiy5IXsnorqTDFHtJDXKSKNdAzpJotcwU/4M+o7ORp25EXdpNnWFnXHo5r9xr9uCvKLetls8ooMhfaepdysWfi81VsmaSpdKkE3tIv1gn7hr8ujbg7qPGkuz4mCEVzcCnbdlfpOEKr0DSw66sZyal4hWq9afmNpL2bQfXLmMNKYot4M8lK+j6rMywL+VpJszLWbG93nTuwNXeNg3QBQH+US5hIcUu6eGa/cfhStkiF+tM8yUxmhvcGgjt8SZ03CDm2rdfymAWUf/Zj6/OT1PbnsWPMTfWQLwFTshNP0dVshHrFY+VoyG3y9v1uwIzfAYAzbx76eIYA1Fk5G5mVxz81yHspXNpUOemV/hn/dGSrGNI6x+FzLljTF7uzAotknkIaKNAsQk+2r5X5kjvh8aXodHCeT8ktxtU663nX9jyx3Dl53l9n+wrpQbddoa/2NW0sh5KGkcyKSJt+3IXF6OUipdgbALZlPgzx9nATi41mTpSmXATfJ6EhNAxX4LfebmOPfDyAN64F11/7rE8skWKqzrGeFyrh/ZfVPGoihVoCbx2tQmhqb1aKbytfl6/lV3wTQy3vjJNBWxLPGcZKaih2tFMqWz/KgIiXIjAxi672Zoh7DDg==","hmac":"1d9ffa81c0fc1642bf8788adc51cba8fc91118f508aa5996e26cb15f0a2ba8e9"}
+{
+      "name": "MCB LICENSE LOCAL",
+      "file": "https://github.com/mrcharlesbrown/mcb-license-local/blob/main/api/verify.json",
+      "raw": "https://raw.githubusercontent.com/mrcharlesbrown/mcb-license-local/main/api/verify.json",
+      "task": "Handles privileges, Integrity Check, Verification, Deactivation, etc. For Offline Validation",
+      "version": "1.0.0",
+      "author": "mrcharlesbrown [mcbdesk@hotmail.com]",
+      "copyright": "All Rights Reserved.",
+      "trialCofig": "0 or [days, seats, isOnline, \"uxp-electron-browser\"] - Trial settings can be configured via the github raw config for offline or vercel server for online. This allows for more flexible and secure trial management without needing to update the client for changes.",
+
+      "localAP": true,
+      "privilegeProductId":[
+            "MCB_Fileslync"
+      ],
+      "apps": {
+            "Fileslync": {
+                  "appKeys": ["1.0.0_100", "1.1.0_110"], 
+			"trialDays": 0
+            }
+      }
+}
+
