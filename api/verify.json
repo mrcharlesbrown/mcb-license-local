@@ -15,8 +15,9 @@
       "apps": {
             "Fileslync": {
                   "appKeys": ["1.0.0_100", "1.1.0_110"], 
-			"trialDays": [2, 2, true, "uxp-electron-browser"]
+			"trialDays": [0, 2, true, "uxp-electron-browser"]
             }
       }
 }
+
 
