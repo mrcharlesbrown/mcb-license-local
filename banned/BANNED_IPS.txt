@@ -1,8 +1,1 @@
-// File: https://github.com/mrcharlesbrown/mcb-license-local/blob/main/banned/BANNED_IPS.txt
-// Raw: https://raw.githubusercontent.com/mrcharlesbrown/mcb-license-local/main/banned/BANNED_IPS.txt
-// It takes a few minutes for the raw to be updated or just reupload file
-
-// Fileslync Sample:
-IP,DEVICE_ID
-IP,DEVICE_ID
-IP,DEVICE_ID
+{"version":2,"mode":"pub_sym","algo":"aes","iv":"20a6deba8e4d664e1ca975fd4ba821e3","ciphertext":"3wBilaFDhRgxG4m7BVoGhrOaA0lfouz0V8+cyDKX4hsqysKA2vw08RfIv03YD+UaAvyGix63U8XBqJPi/GePgpWh/F7pMM5ZeCG9GlU9DCyUWwYrdiCACPMEdsKRCBzrOCuShl7IUxyC7fktas5smMWZS0G0vJZDQsTKC5lIY2tEN9q36gkozkcQDLKG66FqHgU/scwEDKE73LRNxwG6vQe2KPRXT1eMRQskTJGWlhgU917ou+bKZ9UdsC2zmResnbEnmokOZaFUeE8vbmJN3ElpTK8r07NYzUUJ7nfpPb5eiP0xJVILmomdjd+E2YU+6nnljkafFQy6MCY8ubddwX19RadCgyT/Kz33LirlKI9kOSyhRnCaGNxCI5pfCNl5CyUfaVCeD1t1zVSYBUN/R9sCeSxjBABQ8QipxcwcfALnbYigR2ENqUJRyQ83LmVeuiqK5R6RrH23VL8KCupWPyshnH5ZHA82spk6ZeJ1C8l0HKmpWGXGu5cz1gZRt1mJ","hmac":"ef955db8db6db13f2167275b444b0e6bd616f1b2b61b7f8a99aff6c2d9d7c0ee"}
