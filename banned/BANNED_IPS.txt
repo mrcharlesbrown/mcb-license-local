@@ -1,0 +1,8 @@
+// File: https://github.com/mrcharlesbrown/mcb-license-local/blob/main/banned/BANNED_IPS.txt
+// Raw: https://raw.githubusercontent.com/mrcharlesbrown/mcb-license-local/main/banned/BANNED_IPS.txt
+// It takes a few minutes for the raw to be updated or just reupload file
+
+// Fileslync Sample:
+IP,DEVICE_ID
+IP,DEVICE_ID
+IP,DEVICE_ID
