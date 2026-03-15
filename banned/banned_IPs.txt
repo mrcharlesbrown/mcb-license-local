@@ -1,0 +1,12 @@
+// File: https://github.com/mrcharlesbrown/mcb-license-local/blob/main/banned/banned_IPs.txt
+// Raw: https://raw.githubusercontent.com/mrcharlesbrown/mcb-license-local/main/banned/banned_IPs.txt
+// These are banned user IP address or device id which will prevent them from ever using any of our app.
+
+// Instruction:
+// IP_ADDRESS // Ban only IP Address
+// IP_ADDRESS,DEVICE_ID // Ban IP Address or Device ID
+// NA,DEVICE_ID // Ban only Device ID
+
+
+xxx.xxx.xxx.xxx
+158.62.20.92

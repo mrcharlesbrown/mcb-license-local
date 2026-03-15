@@ -1,0 +1,8 @@
+// File: https://github.com/mrcharlesbrown/mcb-license-local/blob/main/banned/banned_keys.txt
+// Raw: https://raw.githubusercontent.com/mrcharlesbrown/mcb-license-local/main/banned/banned_keys.txt
+// These are banned list keys
+
+// Fileslync Sample:
+LICENSE-KEY-1
+LICENSE-KEY-2
+LICENSE-KEY-3
