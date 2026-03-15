@@ -1,8 +1,1 @@
-// File: https://github.com/mrcharlesbrown/mcb-license-local/blob/main/banned/banned_keys.txt
-// Raw: https://raw.githubusercontent.com/mrcharlesbrown/mcb-license-local/main/banned/banned_keys.txt
-// These are banned list keys
-
-// Fileslync Sample:
-LICENSE-KEY-1
-LICENSE-KEY-2
-LICENSE-KEY-3
+{"version":2,"mode":"pub_sym","algo":"aes","iv":"6b6a4cdc42d9c94111f7577ed3654b64","ciphertext":"5qGNO6rCzNXjmLdv2dwsSMCOld8w4VTvlg+e7PT4wmkxL33FqttbkZijdsWX11Zm8Vjd4+NE1Auzo9SatJjTWVLRARzsxvRjxC+BUV8eYx67UHxrKJr4KIov+UZeC+fhsGarQY3qzTbcj0kEBFv/Kl62o001Z8dOTHSQcu8n5nkcOkf2qybWmF0oa9WjDW0ln5dyhjupwJAsWXrbHiQN4TZ53i5/PA8KDVgsVPmCMcIsnYxmxAAn2WZcEhqASnaI57pvYoCO643iMw0xYW8R0r+2w/+lmka4RRsU5SwTiQFHGQWoSyJWrzIBPPfvPFUGRz0RGMwQCq+ioek+ue9zrOcIfI+ZyHOZW9D3tdojkaG2y/ul8QG3abSnN+uUDvRtJoeA9ni5buQ0TPUtZc0nep+2dLP8aAB2Y0YqykuEkzwJEo/TfYRYF7q1ClrWr3rx","hmac":"6cf6b2327e44e182f6ea64ab4fbce3fce9607c2afce2950c32bb0ea6ea6116c0"}
